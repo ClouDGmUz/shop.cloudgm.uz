@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   apps: [{
     name: 'shop-cloudgm',
     script: './server/index.js',
